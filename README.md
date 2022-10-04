@@ -1,5 +1,8 @@
 # Welcome to Hacktoberfest2022 🎉
-<img src ="https://instagram.fccu17-1.fna.fbcdn.net/v/t51.2885-19/285873467_1661097157591470_7228974933783376720_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fccu17-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=LDLebJgCO6sAX90mNoY&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9b8bzQ2EBmMrp-hCt-PcFxA1wXtoin-SkbbDLecqAbLQ&oe=63420B93&_nc_sid=8fd12b" alt ="my cool logo"/>
+<img src ="https://avatars.githubusercontent.com/u/76118430?v=4" alt ="my cool logo"/>
+
+< a href="https://www.instagram.com/ravi_kartar/"> Follow on my insta</a>
+< a href="https://play.google.com/store/apps/details?id=com.shikaruki.tictac"> Have fun with my Few Android App </a>
 
 # This project is perfect for your first pull request
 - Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
