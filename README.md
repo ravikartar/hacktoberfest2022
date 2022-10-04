@@ -29,28 +29,4 @@ git checkout -b branch-name
 * Make your changes (choose from any task below)
 * Commit and push
 
-```markdown
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
-```
-Please check first and then send your codes with discription.
-
-## Reference links
-Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
-[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
-
-Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
-
-Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
-
-Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
-
-Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-
-## Additional references added by contributors
-GitHub license explained [https://choosealicense.com](https://choosealicense.com)
-
 ### Show some ❤ by starring the repository.
