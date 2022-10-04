@@ -1,7 +1,7 @@
 # Welcome to Hacktoberfest2022 🎉
 <img src ="https://avatars.githubusercontent.com/u/76118430?v=4" alt ="my cool logo"/>
 
-< a href="https://www.instagram.com/ravi_kartar/"> Follow on my insta</a>
+< a href="https://www.instagram.com/ravi_kartar"> Follow on my insta</a>
 < a href="https://play.google.com/store/apps/details?id=com.shikaruki.tictac"> Have fun with my Few Android App </a>
 
 # This project is perfect for your first pull request
