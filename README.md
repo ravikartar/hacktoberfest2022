@@ -1,8 +1,8 @@
 # Welcome to Hacktoberfest2022 🎉
 <img src ="https://avatars.githubusercontent.com/u/76118430?v=4" alt ="my cool logo"/>
 
-< a href="https://www.instagram.com/ravi_kartar Follow on my insta</a>
-< a href="https://play.google.com/store/apps/details?id=com.shikaruki.tictac  Have fun with my Few Android App </a>
+Follow on my insta ==>>   https://www.instagram.com/ravi_kartar 
+ Have fun with my Few Android App  ==>>   https://play.google.com/store/apps/details?id=com.shikaruki.tictac  
 
 # This project is perfect for your first pull request
 - Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
