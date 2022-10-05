@@ -1,5 +1,9 @@
 # Welcome to Hacktoberfest2022 🎉
-<img src ="/static/logo.png" alt ="my cool logo"/>
+<img src ="https://avatars.githubusercontent.com/u/76118430?v=4" alt ="my cool logo"/>
+
+Follow on my insta ==>>   https://www.instagram.com/ravi_kartar 
+
+Have fun with my Few Android App  ==>>   https://play.google.com/store/apps/details?id=com.shikaruki.tictac  
 
 # This project is perfect for your first pull request
 - Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
@@ -17,7 +21,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/shikaruki/hacktoberfest2022 .git
 ```
 
 * Create a branch
@@ -28,29 +32,5 @@ git checkout -b branch-name
 
 * Make your changes (choose from any task below)
 * Commit and push
-
-```markdown
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
-```
-Please check first and then send your codes with discription.
-
-## Reference links
-Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
-[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
-
-Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
-
-Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
-
-Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
-
-Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-
-## Additional references added by contributors
-GitHub license explained [https://choosealicense.com](https://choosealicense.com)
 
 ### Show some ❤ by starring the repository.
