@@ -1,0 +1,62 @@
+//class templates for the stack operations like push and pop. cpp
+#include<iostream>
+using namespace std;
+
+//class template
+template<typename T>
+class stack{
+	private:
+	int top;
+	T arr[10];
+	public:
+	stack(){
+		top=-1;
+	}
+	void push(T a);
+	T pop();
+};
+
+//push operation template
+template<typename T>
+void stack<T> :: push(T a){
+   //checking if stack is full
+	if(top>=10){
+		cout<<"Stack Full"<<endl;
+		return;
+	}
+	top++;
+	arr[top]=a;
+}
+
+//pop operation template
+template<typename T>
+T stack<T> :: pop(){
+  //checking if stack is empty
+	if(top==-1){
+		cout<<"Invalid Operation!! Stack Empty"<<endl;
+	}
+	return arr[top--];
+}
+
+
+//main function
+int main(){
+	stack<int> s;
+	s.push(2);
+	s.push(3);
+	s.push(4);
+	s.push(5);
+	s.push(2);
+	s.push(3);
+	s.push(4);
+	cout<<s.pop()<<endl;
+	cout<<s.pop()<<endl;
+	cout<<s.pop()<<endl;
+	cout<<s.pop()<<endl;
+	cout<<s.pop()<<endl;
+	cout<<s.pop()<<endl;
+	cout<<s.pop()<<endl;
+	cout<<s.pop()<<endl;
+	return 0;
+
+}
